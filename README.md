@@ -1,2 +1,3 @@
 # hello-world
-the hello world guide
+
+Hi, I'm Bri. I like playing soccer and dancing.
